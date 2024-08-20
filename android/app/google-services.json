@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "72160142711",
+    "project_id": "note-app-a721e",
+    "storage_bucket": "note-app-a721e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72160142711:android:c4988434e1cbbd6abead72",
+        "android_client_info": {
+          "package_name": "com.gnare.note_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsyyIr14ZJEe2GzS0ee-oNSCK-ucUHCVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72160142711:android:4a316523c86f960bbead72",
+        "android_client_info": {
+          "package_name": "com.gnare.noteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsyyIr14ZJEe2GzS0ee-oNSCK-ucUHCVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
